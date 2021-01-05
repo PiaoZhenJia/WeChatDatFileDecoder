@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-F:\WXDAT\WpfApp1\obj\Debug\
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\
 WpfApp1
 none
 false
 DEBUG;TRACE
-F:\WXDAT\WpfApp1\App.xaml
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\App.xaml
 21075384745
 
-71124303870
-141993743992
+8508722702
+141688158061
 MainWindow.xaml;AddConfig.xaml;
 
-False
+True
 
