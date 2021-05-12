@@ -40,3 +40,7 @@ C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.csproj
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.csproj.CopyComplete
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.exe
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.pdb
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\bin\Debug\WpfApp1.exe.manifest
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\bin\Debug\WpfApp1.application
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.exe.manifest
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.application
