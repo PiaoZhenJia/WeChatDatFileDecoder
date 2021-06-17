@@ -176,5 +176,11 @@ namespace WpfApp1
             AddConfigWindow w1 = new AddConfigWindow();
             w1.Show();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Thanks thank= new Thanks();
+            thank.Show();
+        }
     }
 }

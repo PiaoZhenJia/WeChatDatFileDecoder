@@ -44,3 +44,5 @@ C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\bin\Debug\WpfApp1.exe.ma
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\bin\Debug\WpfApp1.application
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.exe.manifest
 C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\WpfApp1.application
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\thanks.g.cs
+C:\Users\Administrator\Desktop\git\WeChatDatFileDecoder\obj\Debug\thanks.baml
